@@ -1,0 +1,24 @@
+@import "color/ColorMeSASS";
+@import "vars";
+@import "base";
+
+@import "ui/typography";
+
+@import "ui/hero";
+@import "ui/connect";
+@import "ui/intro";
+@import "ui/skills";
+@import "ui/footer";
+
+/*
+******************************
+* Global Styles
+******************************
+*/
+
+body {
+  background: url('../img/bg@2x.png') repeat;
+  margin: auto;
+}
+
+@import "ui/responsive";

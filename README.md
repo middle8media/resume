@@ -1,4 +1,8 @@
-seth.github.com
-===============
+##Hire.me
 
-Seth Hall's Online Resume
+==============================
+
+Jekyll
+Compass
+Inuit.css Responsive Grids
+ColorMeSass 
