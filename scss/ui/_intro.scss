@@ -29,4 +29,5 @@ blockquote {
   background-color: lighten($brand-subColor, 30%);
   padding: $base-space;
   margin-bottom: $base-space;
+  border-bottom: 2px solid $grayDark;
 }
