@@ -2,4 +2,4 @@ exclude: [scss, script.js, config.rb, README.md]
 site_name: Seth Hall - Front-End Designer/Developer
 tagline: The Online Cover Letter and Resume of Seth Hall
 auto: true
-css: /css/global.css
+css: css/global.css
