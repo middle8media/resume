@@ -3,11 +3,12 @@
 ==============================
 
 #####Colophone:
-==============================
+
 * Jekyll
 * Compass
 * Inuit.css Responsive Grids
 * ColorMeSass 
 
-#####Contact
+#####Contact:
+
 seth(at)middle8media(dot)com
