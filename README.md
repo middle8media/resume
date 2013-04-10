@@ -1,8 +1,10 @@
 ##Hire.me
-
+#####The Online Resume of Seth Hall
 ==============================
 
-Jekyll
-Compass
-Inuit.css Responsive Grids
-ColorMeSass 
+#####Colophone:
+==============================
+* Jekyll
+* Compass
+* Inuit.css Responsive Grids
+* ColorMeSass 
