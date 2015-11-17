@@ -1,0 +1,14 @@
+.skills {
+  margin-bottom: $base-space + 20;
+  border-bottom: 4px double rgba($grayDark, .3);
+}
+
+.skills h4 {
+  padding: 5px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid $grayDark;
+}
+
+.skills ul {
+  margin-bottom: $base-space;
+}

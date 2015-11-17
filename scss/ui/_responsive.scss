@@ -1,0 +1,50 @@
+/*
+******************************
+* Media Queries
+******************************
+*/
+
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+
+.avatar {
+  background-size: 100%;
+  height: 180px;
+  width: 180px;
+}
+
+.title {
+  text-align: center;
+}
+
+.connect {
+  margin: auto;
+  width: 194px;
+}
+
+}
+
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+
+.avatar {
+  background-size: 100%;
+  margin: auto;
+  width: 100%;
+}
+
+}
+
+@media only screen and (max-width: 769px) {
+
+  .hero-wrapper {
+    margin: 0;
+  }
+
+}
+
+@media only screen and (min-width : 769px) and (max-width : 1024px) {
+
+}
+
+@media only screen and (min-width : 1025px) {
+
+}

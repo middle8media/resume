@@ -1,0 +1,61 @@
+h3, h4, p {
+  color: $grayDark;
+}
+
+h1 {
+  display: block;
+  width:100%;
+  font-family: adelle, serif;
+  font-size: $mega-size;
+  font-weight: bold;
+  line-height: 1em;
+}
+
+h2 {
+  display: block;
+  width:100%;
+  font-family: adelle, serif;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: adelle, serif;
+  font-size: $h3-size; 
+  font-weight: bold;
+}
+
+h4 {
+  background: lighten($brand-color, 30%);
+  font-family: adelle, serif;
+  font-size: $h3-size; 
+  font-weight: bold;
+}
+
+p {
+  padding-bottom: $base-space;
+  font-family: adelle,serif;
+  font-style: normal;
+  font-weight: 300;
+  line-height:1.5em;
+}
+
+ul li {
+  list-style: none;
+  padding: 0 0 10px;
+  font-family: adelle,serif;
+  font-style: normal;
+  font-weight: 300;
+}
+
+a {
+  color: $redBrick;
+  text-decoration: none;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
+}
+
+a:hover {
+  color: $blueFrench;
+}

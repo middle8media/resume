@@ -1,0 +1,27 @@
+.hero-wrapper {
+  max-width: 900px;
+  margin: 50px auto 0;
+  padding: 15px $base-space + 20;
+  box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.1);
+  background: lighten($brand-color, 30%);
+  border-bottom: 2px solid $grayDark;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.avatar {
+  background: url('../img/seth.png') no-repeat;
+  background-size: 100%;
+  width: 187px;
+  height: 187px;
+  margin: 0 auto $base-space;
+}
+
+.title {
+  text-align: right;
+  margin-bottom: $base-space;
+}
